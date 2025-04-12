@@ -12,4 +12,4 @@ Le dépôt **Data and Dev Exercises** regroupe divers projets et exercices réal
 ## Structure du dépôt
 
 - `data_science/` : Contient les projets de data science, notamment ceux liés aux statistiques et à l’analyse de données.  
-- `dev_basics/` : Contient les projets de programmation Python et les exercices généraux en développement.  
+- `dev_and_basic_algo/` : Contient les projets de programmation Python et les exercices généraux en développement.  
